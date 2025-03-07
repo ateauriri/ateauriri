@@ -1,5 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning about DuckDB + Parquet, data viz for science mapping, results reproduction techniques
+- 🔭 I’m currently working on a data visualization style guide 
 - 📫 How to reach me: [ateauriri@tamu.edu](mailto:ateauriri@tamu.edu)
 - 😄 Pronouns: she/her
 <!--
